@@ -1,2 +1,3 @@
 # JAVA_study_Tim-Han
-# This is hairshop web-apps site.
+# This is hairshop web-apps project.
+
